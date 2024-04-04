@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nukporti Collins
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering with alx
+- 🌱 I’m currently learning C, Java, Python, MySQL...
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ;
 - Twitter : https://twitter.com/CollinsNukporti?s=09
