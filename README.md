@@ -5,7 +5,7 @@
 - 📫 How to reach me ;
 - Twitter : https://twitter.com/CollinsNukporti?s=09
 - Linkedin : https://www.linkedin.com/in/collins-nukporti-9617b2262
-- Contact : +233591197547
+- Email : collinsnukporti888@gmail.com
 
 <!---
 CollinsKobby/CollinsKobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
