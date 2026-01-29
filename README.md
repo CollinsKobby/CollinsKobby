@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, Django...
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ;
-- Twitter : https://twitter.com/CollinsNukporti?s=09
-- Linkedin : https://www.linkedin.com/in/collins-nukporti-9617b2262
-- Email : collinsnukporti888@gmail.com
+- Twitter : https://x.com/a_siwome?s=21
+- Linkedin : https://www.linkedin.com/in/collins-nukporti-143175390
+- Email : cknukporti@gmail.com
 
 <!---
 CollinsKobby/CollinsKobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
