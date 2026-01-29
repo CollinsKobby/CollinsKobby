@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Django...
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ;
-- Twitter : https://x.com/a_siwome?s=21
+- X : https://x.com/a_siwome?s=21
 - Linkedin : https://www.linkedin.com/in/collins-nukporti-143175390
 - Email : cknukporti@gmail.com
 
